@@ -1,1 +1,2 @@
 # projeto-media-alunos-vinicius
+codigo que recebe 3 numeros, sendo o primeiro e segundo com peso 1, e o terceiro com peso 2, e depois divide-se por 4, se for maior que 6 esta aprovado, se for entre 5 e 6, recuperacao
